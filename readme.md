@@ -6,4 +6,4 @@ Um CRUD simples que relaciona os funcionários de uma empresa. É possível visu
 
 ## Tecnologias
 
-Utilizados _HTML_, _CSS_ e _JavaScript_ puros, visto que tal projeto serve apenas como um aquecimento dos estudos dessa tríada na qual estou buscando me aperfeiçoar.#
+Utilizados _HTML_, _CSS_ e _JavaScript_ puros, visto que tal projeto serve apenas como um aquecimento dos estudos dessa tríada na qual estou buscando me aperfeiçoar.
